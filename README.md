@@ -1,6 +1,6 @@
 # Growing Neural Cellular Automata in JAX
 
-Differentiable Model of Morphogenesis from [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/) article written in JAX, Flax.
+Differentiable Model of Morphogenesis from [Mordvintsev, et al., "Growing Neural Cellular Automata", Distill, 2020.](https://distill.pub/2020/growing-ca/) article written in JAX, Flax.
 
 <p align="center">
 <img width="800" alt="teaser" src="https://github.com/maxencefaldor/growing-ca/assets/49123210/51457e98-48bd-49a6-b792-7062b2a80ee7">
